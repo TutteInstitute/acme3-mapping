@@ -19,6 +19,7 @@ dependencies:
   - scipy
   - seaborn
   - setuptools-rust
+  - zstandard
   - pip:
     - adlfs
     - bokeh
@@ -26,6 +27,7 @@ dependencies:
     - dask[complete]
     - dask-sql
     - dask-labextension
+    - datamapplot
     - fast-hdbscan
     - fastnode2vec
     - hdbscan
