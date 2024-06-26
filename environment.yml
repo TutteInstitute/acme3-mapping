@@ -1,4 +1,4 @@
-name: data-science
+name: acme
 dependencies:
   - fsspec
   - graphviz
