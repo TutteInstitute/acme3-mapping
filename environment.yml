@@ -1,4 +1,4 @@
-name: acme
+name: acme3-mapping
 dependencies:
   - fsspec
   - matplotlib
@@ -42,5 +42,3 @@ dependencies:
     - tqdm
     - umap-learn[plot]
     - vectorizers
-channels:
-  - defaults
