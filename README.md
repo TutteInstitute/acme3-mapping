@@ -1,7 +1,7 @@
 # Vector space embeddings and data maps for cyber defense
 
 This repository shows notebooks for experimenting with the computation of vector space embeddings and data maps of telemetry that aim to support cyber defense processes.
-All this code was used to generate the results and images shown in the [eponymous SciPy 2024 talk](https://docs.google.com/presentation/d/1wIPd4KIlEngB43lmyM-W2GoChWyHBf-cDlk4sdsYgD4/edit#slide=id.g2e9451582b7_0_918).
+All this code was used to generate the results and images shown in the talk [Vector Space Embeddings and Data Maps for Cyber Defense](https://docs.google.com/presentation/d/1wIPd4KIlEngB43lmyM-W2GoChWyHBf-cDlk4sdsYgD4/edit#slide=id.g2e9451582b7_0_918) presented at [SciPy 2024](https://cfp.scipy.org/2024/talk/STUXTH) and [SIAM 2024](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79798).
 It is provided here for curious folks to try these experiments by themselves, and perhaps even apply them to their own data.
 
 ## Setup
